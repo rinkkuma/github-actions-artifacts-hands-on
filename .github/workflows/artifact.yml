@@ -28,4 +28,4 @@ jobs:
       with:
         path: ./artifacts
     - name: display content
-      run: cat ./artifacts/hello.txt
+      run: cat ./artifacts/github-actions-artifacts-hands-on/hello.txt
